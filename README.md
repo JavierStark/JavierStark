@@ -8,15 +8,24 @@
   
 ## Skills
 ### Tech Stack
-Unity | C# | C++ | WPF | F# | React | TS | HTML | CSS  | Docker | GO 
+
+C# | C++ | React | JS | HTML | CSS | Python | Flutter | Dart
 ### Software Crafting Skills
-**TDD** |  **XP** | **DDD** | **Trunk Based Development** | **Refactoring** | **Test automation** | **Pair/Mob Programming** | Software Architecture | SOLID  |  Functional Programming | Tool Programming | CI/CD | Clean Code | Design patterns | Agile | Lean 
+![TDD](https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge)
+![XP](https://img.shields.io/badge/XP-darkolivegreen?style=for-the-badge)
+![Refactoring](https://img.shields.io/badge/Refactoring-brown?style=for-the-badge)
+![Test automation](https://img.shields.io/badge/Test_Automation-darkcyan?style=for-the-badge)
+![Pair/Mob Programming](https://img.shields.io/badge/Pair%2FMob_Programming-crimson?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-darkblue?style=for-the-badge)
+![Design patterns](https://img.shields.io/badge/Design%2FPatterns-cyan?style=for-the-badge)
 ### Other Technologies
-XUnit | NUnit | Addressables | Fluent assertions | Sonarqube | Playfab | Firebase | Atlassian | UML | Android | IOS | Steamworks |  Git  | Addressables 
+NUnit | Fluent assertions | Playfab | UML | Git | MongoDB
 ### Game Development
-PC / Console Game development | Tool Programming | Mobile game development | UI Design | ECS | Networked Games | Fast prototyping
+Unity | Godot | P5js | SFML | Raylib
+### Tools
+Visual Studio Code | Rider | Visual Studio Community
 ### Other Skills
-Event Organizing | Onboarding | Professional Mentoring 
+Teaching | Competitive Programming
 
 ## Readings
 
