@@ -3,7 +3,7 @@
 ## About Me
 * 🗺️Spanish, English
 * ⌨️Sofware/🎮Game Developer
-* 🔥Interest in no-engine games
+* 🔥Interest in no-engine game development
 * 📕Avid sofware reader
 * My personal porfolio with some of my projects: [Portfolio](https://javierstark.github.io/)
   
