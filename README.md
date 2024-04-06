@@ -27,19 +27,31 @@
 ![SOLID](https://img.shields.io/badge/SOLID-darkblue?style=for-the-badge)
 ![Design patterns](https://img.shields.io/badge/Design%2FPatterns-cyan?style=for-the-badge)
 ### Other Technologies
+![Static Badge](https://img.shields.io/badge/nunit-midnightblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/fluent_assertions-mediumslateblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/playfab-lightsalmon?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/uml-floralwhite?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 NUnit | Fluent assertions | Playfab | UML | Git | MongoDB
+
 ### Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-Unity | Godot | P5js | SFML | Raylib
+![Static Badge](https://img.shields.io/badge/SFML-darkslateblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/raylib-firebrick?style=for-the-badge)
+
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-0F0F00.svg?style=for-the-badge&logo=Rider&logoColor=white)
-Visual Studio Code | Rider | Visual Studio Community
 ### Other Skills
+![Static Badge](https://img.shields.io/badge/Teaching-grey?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Competitive_programming-darkgrey?style=for-the-badge)
+
+
 Teaching | Competitive Programming
 
 ## Readings
@@ -57,3 +69,7 @@ Teaching | Competitive Programming
 * The Art of Readable Code; Dustin Boswell, Trevor Foucher
 * Moving From Unity to Godot: An In-Depth Handbook to Godot for Unity Users; Alan Thorn
 * Grokking Algorithms; Aditya Y.Bhargava
+
+### Technologies used in my repos
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierStark&hide_border=false&theme=midnight-purple&layout=compact)
