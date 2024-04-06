@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorralbocortes/)
 
-<!--
-**JavierStark/JavierStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+* Spanish, English
+* Sofware/Game Developer
+* Interest in no-engine games
+* Avid sofware reader
+## Skills
+## Readings
 
-Here are some ideas to get you started:
+📖 Current readings:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans. ⭐️ 🚀️
+
+
+📕 Previous readings:
+
+* Extreme Programming Explained (2nd edition); Kent Beck. 
+* The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
+* Unit Testing Principles, Practices and Patterns; Vladimir Khorikov. 
+* Tidy First?: A Personal Exercise in Empirical Software Design; Kent Beck
+* The Art of Readable Code; Dustin Boswell, Trevor Foucher
+* 
