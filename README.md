@@ -5,7 +5,7 @@
 * ⌨️Sofware/🎮Game Developer
 * 🔥Interest in no-engine games
 * 📕Avid sofware reader
-* My personal porfolio with some of my projects: [Portfolio](www.javierstark.github.io)
+* My personal porfolio with some of my projects: [Portfolio](https://javierstark.github.io/)
   
 ## Skills
 ### Tech Stack
@@ -56,7 +56,7 @@
 
 📖 Current readings:
 
-* Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans. ⭐️ 🚀️
+* Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
 
 📕 Previous readings:
 
