@@ -68,6 +68,14 @@
 * Moving From Unity to Godot: An In-Depth Handbook to Godot for Unity Users; Alan Thorn
 * Grokking Algorithms; Aditya Y.Bhargava
 
-### Technologies used in my repos
+## Technologies used in my repos
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierStark&hide_border=false&theme=midnight-purple&layout=compact)
+
+## Contact
+✉️ javiertorralbocortes@gmail.com
+<br>
+Discord: javierstark
+<br>
+X: [JavierStark800](https://twitter.com/JavierStark800)
+
