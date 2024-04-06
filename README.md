@@ -1,10 +1,11 @@
 # Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorralbocortes/)
 
 ## About Me
-* Spanish, English
-* Sofware/Game Developer
-* Interest in no-engine games
-* Avid sofware reader
+* 🗺️Spanish, English
+* ⌨️Sofware/🎮Game Developer
+* 🔥Interest in no-engine games
+* 📕Avid sofware reader
+* My personal porfolio with some of my projects: [Portfolio](www.javierstark.github.io)
   
 ## Skills
 ### Tech Stack
@@ -33,7 +34,6 @@
 ![Static Badge](https://img.shields.io/badge/uml-floralwhite?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-NUnit | Fluent assertions | Playfab | UML | Git | MongoDB
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -51,8 +51,6 @@ NUnit | Fluent assertions | Playfab | UML | Git | MongoDB
 ![Static Badge](https://img.shields.io/badge/Teaching-grey?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Competitive_programming-darkgrey?style=for-the-badge)
 
-
-Teaching | Competitive Programming
 
 ## Readings
 
