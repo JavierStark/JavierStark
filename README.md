@@ -29,8 +29,15 @@
 ### Other Technologies
 NUnit | Fluent assertions | Playfab | UML | Git | MongoDB
 ### Game Development
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 Unity | Godot | P5js | SFML | Raylib
 ### Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-0F0F00.svg?style=for-the-badge&logo=Rider&logoColor=white)
 Visual Studio Code | Rider | Visual Studio Community
 ### Other Skills
 Teaching | Competitive Programming
