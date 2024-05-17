@@ -56,15 +56,16 @@
 
 📖 Current readings:
 
-* Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
+* Test-Driven Development; Kent Beck
 
 📕 Previous readings:
 
+* Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
+* Unit Testing Principles, Practices and Patterns; Vladimir Khorikov. 
 * Extreme Programming Explained (2nd edition); Kent Beck. 
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
-* Unit Testing Principles, Practices and Patterns; Vladimir Khorikov. 
-* Tidy First?: A Personal Exercise in Empirical Software Design; Kent Beck
 * The Art of Readable Code; Dustin Boswell, Trevor Foucher
+* Tidy First?: A Personal Exercise in Empirical Software Design; Kent Beck
 * Moving From Unity to Godot: An In-Depth Handbook to Godot for Unity Users; Alan Thorn
 * Grokking Algorithms; Aditya Y.Bhargava
 
