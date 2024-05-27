@@ -56,10 +56,11 @@
 
 📖 Current readings:
 
-* Test-Driven Development; Kent Beck
+* Refactoring; Martin Fowler, Kent Beck
 
 📕 Previous readings:
 
+* Test-Driven Development; Kent Beck
 * Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
 * Unit Testing Principles, Practices and Patterns; Vladimir Khorikov. 
 * Extreme Programming Explained (2nd edition); Kent Beck. 
