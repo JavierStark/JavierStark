@@ -56,10 +56,11 @@
 
 📖 Current readings:
 
-* Refactoring; Martin Fowler, Kent Beck
+* The Nature of Software Development; Ron Jeffries
 
 📕 Previous readings:
 
+* Refactoring; Martin Fowler, Kent Beck
 * Test-Driven Development; Kent Beck
 * Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
 * Unit Testing Principles, Practices and Patterns; Vladimir Khorikov. 
