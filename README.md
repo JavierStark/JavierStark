@@ -56,10 +56,11 @@
 
 📖 Current readings:
 
-* The Nature of Software Development; Ron Jeffries
+* Modern C++ Programming with Test-Driven Development; Jeff Langr
 
 📕 Previous readings:
 
+*The Nature of Software Development; Ron Jeffries
 * Refactoring; Martin Fowler, Kent Beck
 * Test-Driven Development; Kent Beck
 * Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
