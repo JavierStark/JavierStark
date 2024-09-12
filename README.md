@@ -56,7 +56,9 @@
 
 📖 Current readings:
 
-* Modern C++ Programming with Test-Driven Development; Jeff Langr
+* Fundamentals of Database Systems; Elmasri, Navathe
+* The Programmer's Brain; Felienne Hermans
+* Effective C++; Scott Meyers
 
 📕 Previous readings:
 
