@@ -60,7 +60,7 @@
 * Effective C++; Scott Meyers
 
 📕 Previous readings:
-
+* 101 Great Answers to the Toughest Interview Questions; Ron Fry
 * The Nature of Software Development; Ron Jeffries
 * Refactoring; Martin Fowler, Kent Beck
 * Test-Driven Development; Kent Beck
