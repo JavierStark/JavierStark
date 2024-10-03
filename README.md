@@ -60,6 +60,7 @@
 * Effective C++; Scott Meyers
 
 📕 Previous readings:
+* Guide to the Typescript; Tommie Duffy
 * 101 Great Answers to the Toughest Interview Questions; Ron Fry
 * The Nature of Software Development; Ron Jeffries
 * Refactoring; Martin Fowler, Kent Beck
