@@ -55,7 +55,7 @@
 ## Readings
 
 📖 Current readings:
-
+* Functional Programming with C#; Simon J. Painter
 * Fundamentals of Database Systems; Elmasri, Navathe
 * Effective C++; Scott Meyers
 
