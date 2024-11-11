@@ -1,4 +1,4 @@
-# Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorralbocortes/)
+l# Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorralbocortes/)
 
 ## About Me
 * 🗺️Spanish, English
@@ -56,8 +56,7 @@
 
 📖 Current readings:
 * Functional Programming with C#; Simon J. Painter
-* Fundamentals of Database Systems; Elmasri, Navathe
-* Effective C++; Scott Meyers
+* Fundamentals of Software Architecture: An Engineering Approach; Mark Richards, Neal Ford
 
 📕 Previous readings:
 * Programming Interviews for Dummies; Eric Butow, John Sonmez
