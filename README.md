@@ -56,9 +56,9 @@ l# Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorra
 
 📖 Current readings:
 * Functional Programming with C#; Simon J. Painter
-* Fundamentals of Software Architecture: An Engineering Approach; Mark Richards, Neal Ford
 
 📕 Previous readings:
+* Fundamentals of Software Architecture: An Engineering Approach; Mark Richards, Neal Ford
 * Programming Interviews for Dummies; Eric Butow, John Sonmez
 * Guide to the Typescript; Tommie Duffy
 * 101 Great Answers to the Toughest Interview Questions; Ron Fry
