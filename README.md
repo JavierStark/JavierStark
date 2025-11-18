@@ -20,8 +20,8 @@ l# Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorra
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ### Software Crafting Skills
-![TDD](https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge)
 ![XP](https://img.shields.io/badge/XP-darkolivegreen?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge)
 ![Refactoring](https://img.shields.io/badge/Refactoring-brown?style=for-the-badge)
 ![Test automation](https://img.shields.io/badge/Test_Automation-darkcyan?style=for-the-badge)
 ![Pair/Mob Programming](https://img.shields.io/badge/Pair%2FMob_Programming-crimson?style=for-the-badge)
@@ -45,8 +45,8 @@ l# Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorra
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-0F0F00.svg?style=for-the-badge&logo=Rider&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ### Other Skills
 ![Static Badge](https://img.shields.io/badge/Teaching-grey?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Competitive_programming-darkgrey?style=for-the-badge)
