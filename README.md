@@ -3,7 +3,7 @@ l# Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorra
 ## About Me
 * 🗺️Spanish, English
 * ⌨️Sofware/🎮Game Developer
-* 🔥Interest in no-engine game development
+* 🔥Interest in dotnet ecosystem
 * 📕Avid sofware reader
 * My personal porfolio with some of my projects: [Portfolio](https://javiertorralbo.dev/)
   
