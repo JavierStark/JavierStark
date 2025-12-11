@@ -76,7 +76,7 @@
 
 ## Technologies used in my repos
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=JavierStark&hide_border=false&theme=midnight-purple&layout=compact](https://githubcard.com/javierstark.svg?d=olZFY60K))
+![Top Langs](https://githubcard.com/javierstark.svg?d=olZFY60K)
 
 ## Contact
 ✉️ javiertorralbocortes@gmail.com
