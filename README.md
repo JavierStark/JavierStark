@@ -53,9 +53,8 @@
 
 
 ## Readings
-📖 Currently reading:
-* 🤩F# in Action; Isaac Abraham
 📕 Previous readings:
+* 🤩F# in Action; Isaac Abraham
 * Functional Programming with C#; Simon J. Painter
 * Fundamentals of Software Architecture: An Engineering Approach; Mark Richards, Neal Ford
 * Programming Interviews for Dummies; Eric Butow, John Sonmez
