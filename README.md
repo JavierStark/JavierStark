@@ -53,6 +53,8 @@
 
 
 ## Readings
+📖 Currently reading:
+* Pro ASP.NET Core 7, Tenth Edition; Adam Freeman
 📕 Previous readings:
 * 🤩F# in Action; Isaac Abraham
 * Functional Programming with C#; Simon J. Painter
@@ -81,5 +83,4 @@
 <br>
 Discord: javierstark
 <br>
-X: [JavierStark800](https://twitter.com/JavierStark800)
 
