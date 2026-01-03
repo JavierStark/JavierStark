@@ -54,8 +54,9 @@
 
 ## Readings
 📖 Currently reading:
-* Pro ASP.NET Core 7, Tenth Edition; Adam Freeman
+
 📕 Previous readings:
+* Pro ASP.NET Core 7, Tenth Edition; Adam Freeman
 * 🤩F# in Action; Isaac Abraham
 * Functional Programming with C#; Simon J. Painter
 * Fundamentals of Software Architecture: An Engineering Approach; Mark Richards, Neal Ford
