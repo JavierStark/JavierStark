@@ -55,8 +55,9 @@
 ## Readings
 📖 Currently reading:
 * Designing Data-Intensive Applications; Martin Kleppmann
-* Docker Deep Dive, Fifth Edition; Nigel Poulton
+
 📕 Previous readings:
+* Docker Deep Dive, Fifth Edition; Nigel Poulton
 * Pro ASP.NET Core 7, Tenth Edition; Adam Freeman
 * F# in Action; Isaac Abraham
 * Functional Programming with C#; Simon J. Painter
