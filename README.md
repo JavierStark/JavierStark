@@ -54,9 +54,10 @@
 
 ## Readings
 📖 Currently reading:
-* Designing Data-Intensive Applications; Martin Kleppmann
+* The Kubernetes Book, Third Edition; Nigel Poulton
 
 📕 Previous readings:
+* Designing Data-Intensive Applications; Martin Kleppmann
 * Docker Deep Dive, Fifth Edition; Nigel Poulton
 * Pro ASP.NET Core 7, Tenth Edition; Adam Freeman
 * F# in Action; Isaac Abraham
