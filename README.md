@@ -54,9 +54,9 @@
 
 ## Readings
 📖 Currently reading:
-* The Kubernetes Book, Third Edition; Nigel Poulton
 
 📕 Previous readings:
+* The Kubernetes Book, Third Edition; Nigel Poulton
 * Designing Data-Intensive Applications; Martin Kleppmann
 * Docker Deep Dive, Fifth Edition; Nigel Poulton
 * Pro ASP.NET Core 7, Tenth Edition; Adam Freeman
