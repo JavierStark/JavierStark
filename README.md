@@ -1,90 +1,71 @@
-# Hi!👋 I'm [Javier Torralbo Cortés](https://www.linkedin.com/in/javiertorralbocortes/)
+# Javier Torralbo Cortés
 
-## About Me
-* 🗺️Spanish, English
-* ⌨️Sofware Developer
-* 🔥Interest in .NET ecosystem
-* 📕Avid sofware reader
-* My personal porfolio with some of my projects: [Portfolio](https://javiertorralbo.dev/)
-  
-## Skills
-### Tech Stack
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
-![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-### Software Crafting Skills
-![XP](https://img.shields.io/badge/XP-darkolivegreen?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge)
-![Refactoring](https://img.shields.io/badge/Refactoring-brown?style=for-the-badge)
-![Test automation](https://img.shields.io/badge/Test_Automation-darkcyan?style=for-the-badge)
-![Pair/Mob Programming](https://img.shields.io/badge/Pair%2FMob_Programming-crimson?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-darkblue?style=for-the-badge)
-![Design patterns](https://img.shields.io/badge/Design%2FPatterns-cyan?style=for-the-badge)
-### Other Technologies
-![Static Badge](https://img.shields.io/badge/nunit-midnightblue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/fluent_assertions-mediumslateblue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/playfab-lightsalmon?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/uml-floralwhite?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Software engineer building backend and cloud-native systems in .NET. Based in Málaga, Spain.
 
-### Game Development
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Static Badge](https://img.shields.io/badge/SFML-darkslateblue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/raylib-firebrick?style=for-the-badge)
+- 🏢 **Verisk**, Impact team: modernizing .NET CI/CD in Azure DevOps, containerizing test infrastructure with Docker and Podman, and building a new product with spec-driven, AI-led development.
+- 🧬 **iGEM UMA-Malaga 2026**: sole developer of [Diana](https://gitlab.igem.org/2026/software/uma-malaga/diana-grna-designer), the team's guide RNA design software (Blazor + F#). Its guides were ordered and tested in the wet lab.
+- ⛓️ **Bachelor's thesis** on Canton Network with ioBuilders, written in public as [an article series](https://www.linkedin.com/pulse/canton-different-blockchain-javier-torralbo-cort%C3%A9s-t0hle/).
+- 🎤 **Speaking and teaching**: .NET Aspire at OpenSouthCode, F# for data science at dotnetMÁLAGA, co-founder of the University of Málaga's DevOps & Cloud course.
+- ☸️ **CKAD**, Certified Kubernetes Application Developer.
 
-### Tools
-![Rider](https://img.shields.io/badge/Rider-0F0F00.svg?style=for-the-badge&logo=Rider&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-### Other Skills
-![Static Badge](https://img.shields.io/badge/Teaching-grey?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Competitive_programming-darkgrey?style=for-the-badge)
+## Selected work
 
+| Project | What it is | Stack |
+|---|---|---|
+| [Diana](https://gitlab.igem.org/2026/software/uma-malaga/diana-grna-designer) | Turns disease variants into ranked CRISPR-Cas13 guide RNAs, plans pooled screening on 96/384-well plates, exports order-ready oligos | F#, Blazor, .NET 9, Docker, Bowtie, ViennaRNA |
+| [Canton bond platform](https://github.com/JavierStark/Project-CantonDaml-IoBuilders-UMA) | Tokenized bond lifecycle (issue, transfer, burn, DvP settlement) on a multi-node Canton network, fully observable | Daml, Canton, Go, .NET Aspire, OpenTelemetry, Grafana |
+| [CUDECA WATT](https://github.com/JavierStark/Proyecto-ADAp-WATT) | Donation and event-ticketing platform for a real charity use case; CI/CD to Azure from day one | ASP.NET Core 9, Supabase, Stripe, Azure, GitHub Actions |
+| [ApexVoting](https://github.com/JavierStark/ApexVoting) | Distributed voting system with an async processing queue, deployed to Kubernetes and load-tested | .NET Aspire, Redis, PostgreSQL, Kubernetes, k6 |
+| [DevOps & Cloud course](https://javiertorralbo.dev/CursoDevopsCloud/) | Course materials: Docker, Kubernetes, cloud deployment, GitHub Actions | Docker, Kubernetes, Azure |
 
-## Readings
-📖 Currently reading:
+## Talks and writing
 
-📕 Previous readings:
-* The Kubernetes Book, Third Edition; Nigel Poulton
-* Designing Data-Intensive Applications; Martin Kleppmann
-* Docker Deep Dive, Fifth Edition; Nigel Poulton
-* Pro ASP.NET Core 7, Tenth Edition; Adam Freeman
-* F# in Action; Isaac Abraham
-* Functional Programming with C#; Simon J. Painter
-* Fundamentals of Software Architecture: An Engineering Approach; Mark Richards, Neal Ford
-* Programming Interviews for Dummies; Eric Butow, John Sonmez
-* Guide to the Typescript; Tommie Duffy
-* 101 Great Answers to the Toughest Interview Questions; Ron Fry
-* The Nature of Software Development; Ron Jeffries
-* Refactoring; Martin Fowler, Kent Beck
-* Test-Driven Development; Kent Beck
-* Domain-Driven Design: Tackling Complexity in the Heart of Software; Eric Evans
-* Unit Testing Principles, Practices and Patterns; Vladimir Khorikov. 
-* Extreme Programming Explained (2nd edition); Kent Beck. 
-* The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
-* The Art of Readable Code; Dustin Boswell, Trevor Foucher
-* Tidy First?: A Personal Exercise in Empirical Software Design; Kent Beck
-* Moving From Unity to Godot: An In-Depth Handbook to Godot for Unity Users; Alan Thorn
-* Grokking Algorithms; Aditya Y.Bhargava
+- **Aspire: orchestration, DevEx and observability with built-in AI**, OpenSouthCode 2026, Málaga
+- **Workshop: a C# Minimal API to production with GitHub Actions and Azure**, Hackers Week 2026, University of Málaga
+- **Data Science with F#**, dotnetMÁLAGA, January 2026
+- **[Canton: A Different Blockchain](https://www.linkedin.com/pulse/canton-different-blockchain-javier-torralbo-cort%C3%A9s-t0hle/)**, The Canton Series, part 1
 
-## Technologies used in my repos
+## Stack
 
-![Top Langs](https://githubcard.com/javierstark.svg?d=olZFY60K)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET Aspire](https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat-square)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Daml](https://img.shields.io/badge/Daml-1F2A44?style=flat-square)
+
+**How I work:** TDD, refactoring, small steps, pair and mob programming, spec-driven development.
+
+<details>
+<summary><b>Books that shaped how I write software</b></summary>
+
+- *Designing Data-Intensive Applications*, Martin Kleppmann
+- *Fundamentals of Software Architecture*, Mark Richards and Neal Ford
+- *Domain-Driven Design*, Eric Evans
+- *The Kubernetes Book* (3rd ed.) and *Docker Deep Dive* (5th ed.), Nigel Poulton
+- *Pro ASP.NET Core 7*, Adam Freeman
+- *F# in Action*, Isaac Abraham
+- *Functional Programming with C#*, Simon J. Painter
+- *Test-Driven Development* and *Tidy First?*, Kent Beck
+- *Extreme Programming Explained* (2nd ed.), Kent Beck
+- *Refactoring*, Martin Fowler
+- *Unit Testing Principles, Practices and Patterns*, Vladimir Khorikov
+- *The Pragmatic Programmer*, Andrew Hunt and David Thomas
+- *The Nature of Software Development*, Ron Jeffries
+- *The Art of Readable Code*, Dustin Boswell and Trevor Foucher
+- *Grokking Algorithms*, Aditya Y. Bhargava
+
+</details>
 
 ## Contact
-✉️ javiertorralbocortes@gmail.com
-<br>
-Discord: javierstark
-<br>
 
+[javiertorralbo.dev](https://javiertorralbo.dev) · [LinkedIn](https://www.linkedin.com/in/javiertorralbocortes/) · javiertorralbocortes@gmail.com
