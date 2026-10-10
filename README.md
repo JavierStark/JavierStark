@@ -2,7 +2,7 @@
 
 ## About Me
 * 🗺️Spanish, English
-* ⌨️Sofware/🎮Game Developer
+* ⌨️Sofware Developer
 * 🔥Interest in .NET ecosystem
 * 📕Avid sofware reader
 * My personal porfolio with some of my projects: [Portfolio](https://javiertorralbo.dev/)
